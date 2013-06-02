@@ -1,0 +1,20 @@
+---
+author:
+comments: true
+date: 2006-02-20 20:46:59
+layout: post
+slug: tagging
+title: Tagging
+wordpress_id: 394
+categories:
+- Geeky
+---
+
+Just installed a new WordPress plugin that makes it easy to add Technorati tags to a message. I chose [SimpleTags](http://www.broobles.com/scripts/simpletags/index.html) because it does not require an extra field and said it would work with blogging tools like ecto. And it worked out of the box. But I now discover that ecto supports a form of tagging all of its own. And allows me to pick tags from a list, rather like a controlled vocabulary. But unlike SimpleTags, I don't think it can create a tag in the middle of a post.
+
+Let's see ...
+
+Maybe I'll keep them both. Not least because ecto makes it especially easy to add SimpleTags tags in the post.
+
+Alas, not that simple. SimpleTags does not, as I originally thought, merely turn a word into a Technorati tag. It takes that word and adds the Technorati tag for it to the end of the post. so if I do use both systems, I get double tagging. Bummer.
+

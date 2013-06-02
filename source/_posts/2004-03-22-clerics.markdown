@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2004-03-22 13:59:00
+layout: post
+slug: clerics
+title: Clerics
+wordpress_id: 50
+categories:
+- Just Links
+---
+
+Clerics have [blocked](http://news.independent.co.uk/world/africa/story.jsp?story=503426&host=3&dir=70) efforts to eradicate polio in northern Nigeria. Still, I expect there's a special place in Heaven for kids who die of it.

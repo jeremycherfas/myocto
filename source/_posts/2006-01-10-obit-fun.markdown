@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2006-01-10 15:32:31
+layout: post
+slug: obit-fun
+title: Obit fun
+wordpress_id: 364
+categories:
+- Just Links
+---
+
+Reports of Daniel "D.J." Reddout's death were greatly exaggerated. [Read all about it](http://www.regrettheerror.com/2006/01/paper_runs_fals.html).

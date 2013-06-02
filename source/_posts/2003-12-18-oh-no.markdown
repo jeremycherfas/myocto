@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2003-12-18 16:20:00
+layout: post
+slug: oh-no
+title: Oh No!
+wordpress_id: 86
+categories:
+- Geeky
+---
+
+My trusty iBook has died a little death. The screen went wobbly and then went black. But the nice man from whom I bought it says he can fix it. But I may be without until some time in the New Year. Rats!

@@ -1,0 +1,22 @@
+---
+author:
+comments: true
+date: 2011-01-04 09:16:46
+layout: post
+slug: books
+title: Books
+wordpress_id: 2249
+categories:
+- General
+---
+
+I learned two things from Aaron Swartz's [2010 Review of Books](http://www.aaronsw.com/weblog/books2010).
+
+
+	
+  1. The guy can read.
+
+	
+  2. I can make use of that; five books added to my [wishlist](http://www.amazon.com/registry/wishlist/1IXEK0VEU8FFN/ref=cm_wl_act_vv?_encoding=UTF8&visitor-view=1&reveal=).
+
+OK, so that's barely more than 4% of the stack he got through, but I'm not competing. And I should maybe try and do some more reviews myself, as a brain-dump as much as anything.

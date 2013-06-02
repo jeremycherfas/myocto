@@ -1,0 +1,14 @@
+---
+author:
+comments: true
+date: 2006-08-13 08:53:28
+layout: post
+slug: fiddling
+title: Fiddling
+wordpress_id: 547
+categories:
+- Geeky
+---
+
+Apologies if service has been interrupted. I've been fiddling with an upgrade to the site, and it didn't quite work. Back to the old version for now, while I await help.
+

@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2005-10-04 05:51:52
+layout: post
+slug: film
+title: Film
+wordpress_id: 321
+categories:
+- General
+---
+
+In the old days this blog rated films on a three point scale. _[Don't come knocking](http://www.wim-wenders.com/movies/movies_spec/dontcomeknocking/dont-come-knocking.htm)_ would have required a fourth point. Simply wonderful.

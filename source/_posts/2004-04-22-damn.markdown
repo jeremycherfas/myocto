@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2004-04-22 15:12:00
+layout: post
+slug: damn
+title: Damn!
+wordpress_id: 44
+categories:
+- General
+---
+
+The [sheep](http://jeremycherfas.net/images/Pictures/Easter%20at%20Crossways/Shooting%20Sheep%202.jpg) have eaten the [fritillaries](http://jeremycherfas.net/images/Pictures/Easter%20at%20Crossways/Snakeshead%20Fritillary.jpg)!

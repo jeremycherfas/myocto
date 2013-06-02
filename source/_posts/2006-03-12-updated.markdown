@@ -1,0 +1,15 @@
+---
+author:
+comments: true
+date: 2006-03-12 22:39:38
+layout: post
+slug: updated
+title: Updated
+wordpress_id: 417
+categories:
+- Geeky
+---
+
+Upgraded my WP installation to 2.0.2 and slightly hairy it was too. For a moment I lost everything. But it turned out to be a snafu with a missing file, which the folks over at the support forum quickly pointed me to. That done, and all is hunkiest.
+
+

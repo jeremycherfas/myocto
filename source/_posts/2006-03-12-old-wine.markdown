@@ -1,0 +1,22 @@
+---
+author:
+comments: true
+date: 2006-03-12 12:25:34
+layout: post
+slug: old-wine
+title: Old wine
+wordpress_id: 415
+categories:
+- General
+---
+
+Back in 1998 the Royal Agricultural Society of England asked me to write an article for a little booklet designed to feed the debate on genetically engineered crops. My chapter --  Nothing new under the sun -- duly appeared. I've often had cause to think about it, and to reflect that I rather like it, and stand by it today. In fact, while it could undoubtedly be updated, on re-reading I don't think it is necessary.
+
+The original can still be found on the web, but it isn't easy, so I thought I would upload it [here](http://jeremycherfas.net/wp/work/nothing-new-under-the-sun-introduction/).
+
+Comments there are closed, but open here.
+
+Someday, I guess, I should prettify the footnote numbers and maybe even turn them into hyperlinks, but not now.
+
+[tags]agriculture, genetic engineering, science[/tags]
+

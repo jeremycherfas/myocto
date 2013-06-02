@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2004-08-28 16:11:56
+layout: post
+slug: tweaking
+title: Tweaking
+wordpress_id: 18
+categories:
+- Geeky
+---
+
+Just playing about with some colours and stylings. I do prefer Georgia to Times. And larger, and more leading. But I think I want to recreate the look of the old site, not three column, necessarily, but with a more open header and footer, with includes probably. Getting errors on edit. Trying to fix that by not Pinging.

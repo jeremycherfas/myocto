@@ -1,0 +1,15 @@
+---
+author:
+comments: true
+date: 2007-10-16 04:41:24
+layout: post
+slug: food-news-67
+title: Food News 67
+wordpress_id: 816
+categories:
+- Shangri-La
+---
+
+Start: 95.4 Last week: 89.5 This week: 88.8
+**Tuesday 16 October:** Today is World Food Day. Irony and sarcasm are superfluous.
+

@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2005-07-19 09:00:45
+layout: post
+slug: who-knew
+title: Who knew?
+wordpress_id: 284
+categories:
+- Just Links
+---
+
+"The world's most famous bicycle race began as a publicity stunt." I didn't know that. But I do now, thanks to the [Human Flower Project](http://www.humanflowerproject.com/index.php/weblog/tournesol_a_la_tour_de_france/), a recent discovery.

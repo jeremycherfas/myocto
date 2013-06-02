@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2005-04-10 14:01:02
+layout: post
+slug: job-done
+title: Job done
+wordpress_id: 246
+categories:
+- General
+---
+
+Actually that's not quite true. There are a couple of tweaks I still want to make. But a [site](http://www.toscanatrail.com/) I did for some friends who offer riding holidays in Tuscany and Lazio is now live. I've suggested they ask all their friends to link to it, and this is my contribution.

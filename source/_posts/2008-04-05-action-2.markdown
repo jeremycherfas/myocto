@@ -1,0 +1,19 @@
+---
+author:
+comments: true
+date: 2008-04-05 13:46:09
+layout: post
+slug: action-2
+title: Action!
+wordpress_id: 967
+categories:
+- 50 x 100 x 50
+- Geeky
+---
+
+![1260984431 C08Da2Df47 M](http://jeremycherfas.net/uploads/1260984431-c08da2df47-m.jpg) At a meeting yesterday morning we discussed a shared workspace. The Chair preferred email, "because people prefer action items, and an email in your inbox you can take action on. Going to a shared workspace you can ignore."
+Well yes, if it weren't that so many of the emails in one's inbox required no action, except to press delete. FYIs, keeping you in the loops, protecting my arses, reply to alls, pure spams. They're all in there, swamping the few that can and do require action.
+
+I thought it better not to recommend RSS feeds and alerts.
+Flickr photograph by [Shyha](http://flickr.com/photos/shyha/1260984431/).
+

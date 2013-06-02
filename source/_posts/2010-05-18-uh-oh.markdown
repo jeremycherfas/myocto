@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2010-05-18 08:58:31
+layout: post
+slug: uh-oh
+title: Uh oh
+wordpress_id: 2061
+categories:
+- Geeky
+---
+
+[iPad with Neo as keyboard](http://vimeo.com/11754480?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tidbits_main+%28TidBITS%3A+Mac+News+for+the+Rest+of+Us%29). Maybe a [folding Matias](http://www.matias.ca/foldingkeyboard/) would work too? [It will](http://matias.ca/foldingkeyboard/ipad/)? Uh oh.

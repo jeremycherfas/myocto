@@ -1,0 +1,15 @@
+---
+author:
+comments: true
+date: 2007-05-01 04:14:48
+layout: post
+slug: food-news-43
+title: Food News 43
+wordpress_id: 733
+categories:
+- Shangri-La
+---
+
+Start: 95.4 Last week: 88.8 This week: 88.8
+**Tuesday 1 May: **Dieters of the world unite, you have nothing to lose but your weight.
+

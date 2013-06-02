@@ -1,0 +1,15 @@
+---
+author:
+comments: true
+date: 2005-07-13 09:15:34
+layout: post
+slug: real-news
+title: Real news
+wordpress_id: 280
+categories:
+- Just Links
+---
+
+Del.icio.us alerted me to this rather readable blog [post](http://radicalpeace.blogspot.com/2005/06/reason-our-media-doesnt-report-real.html): Robert Kennedy Jr's response to the question "Why isn't our media reporting the real news?".
+
+And while we're on the subject, George Monbiot has been writing up a storm recently, blasting away humbug as only he knows how. [This](http://www.monbiot.com/archives/2005/06/30/save-us-from-ourselves/) is the start of about five great articles in a row.

@@ -1,0 +1,15 @@
+---
+author:
+comments: true
+date: 2006-11-28 05:09:51
+layout: post
+slug: food-news-21
+title: Food News 21
+wordpress_id: 634
+categories:
+- Shangri-La
+---
+
+Start: 95.4 Last week: 87.9  This week: 87.4
+**Tuesday 28 November:** Damn this accursed plateau.
+

@@ -1,0 +1,15 @@
+---
+author:
+comments: true
+date: 2005-04-24 16:35:48
+layout: post
+slug: fraud
+title: Fraud
+wordpress_id: 252
+categories:
+- Just Links
+---
+
+[![John Paul Ii](http://jeremycherfas.net/wp/wp-content/images/John%20Paul%20II-tm.jpg)](http://jeremycherfas.net/wp/wp-content/images/John%20Paul%20II.jpg) The photograph that The Economist used in its [obituary](http://www.economist.com/displaystory.cfm?story_id=3839698) of Pope John Paul II is one of the best I've seen. I just hope AFP doesn't come after me for putting it here.
+
+And speaking of popes and elections, I enjoyed the simultaneity -- for me, at any rate, catching up after a week away -- of two examinations of the vulnerability of elections, one for the [pope](http://www.schneier.com/blog/archives/2005/04/hacking_the_pap.html) and one for Tony Blair's [Labour Party](http://www.economist.com/displaystory.cfm?story_id=3846715). It could be worse though. It could be [Zimbabwe](http://www.economist.com/displaystory.cfm?story_id=3841254).

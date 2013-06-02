@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2006-01-03 12:12:53
+layout: post
+slug: ooops
+title: Ooops
+wordpress_id: 362
+categories:
+- Just Links
+---
+
+One of the nice things about not being on holiday (perhaps the only one) is that I have access to all the techie tools I need to make posting here a breeze. In which spirit, my favourite list of 2005: [The Year in Media Errors and Corrections](http://www.regrettheerror.com/2005/12/crunks_05_the_y.html). The parent site looks worth bookmarking for future entertainment.

@@ -1,0 +1,23 @@
+---
+author:
+comments: true
+date: 2005-10-04 06:05:06
+layout: post
+slug: ant-news
+title: Ant news
+wordpress_id: 322
+categories:
+- Just Links
+---
+
+I can't actually play with Google Earth myself, but I can appreciate what others are doing. Like the [ant map](http://www.gearthblog.com/blog/archives/2005/10/the_ants_go_mar_1.html), which earned Google its very own ant: _Proceratium google_.
+
+p.s. [Neddie](http://byneddiejingo.blogspot.com/2005/10/america-eats-its-young.html).
+
+p.p.s. And [ftrain](http://www.themorningnews.org/archives/in_the_city/i_am_gary_benchley.php). What a cool story.
+
+p.p.s.
+
+> I'm impressed. I never thought I'd see dog poop and a Hitler/Nazi attack in a comment in the same blog. Extremely cool, and triple bonus points for all. 
+
+Go get 'em, [Freaks](http://www.freakonomics.com/2005/10/oh-crap.html).

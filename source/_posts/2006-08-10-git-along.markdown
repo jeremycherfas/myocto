@@ -1,0 +1,18 @@
+---
+author:
+comments: true
+date: 2006-08-10 21:16:37
+layout: post
+slug: git-along
+title: Git along
+wordpress_id: 545
+categories:
+- Entertainment
+---
+
+A good western is like a twelve bar blues. There's a basic simple structure within which more or less everything is predictable. And then there are the little riffs and trills that bring delight because they are not quite what you expected. [Open Range](http://imdb.com/title/tt0316356/?fr=c2l0ZT1kZnx0dD0xfGZiPXV8cG49MHxrdz0xfHE9b3BlbiByYW5nZXxmdD0xfG14PTIwfGxtPTUwMHxjbz0xfGh0bWw9MXxubT0x;fc=1;ft=22;fm=1) is one such, directed by Kevin Costner and starring him, Robert Duvall, Annete Bening and -- wonder of wonders -- Michael Gambon in heavy make-up and Irish accent as the evil rancher. Missed it first time around, but that was rectified tonight, and most pleasant it was. Even an absurd line like "there's things that gnaw at a man worse than dying" came off just fine.
+
+And I have [Broken Trail](http://imdb.com/title/tt0482857/?fr=c2l0ZT1kZnx0dD0xfGZiPXV8cG49MHxrdz0xfHE9YnJva2VuIHRyYWlsfGZ0PTF8bXg9MjB8bG09NTAwfGNvPTF8aHRtbD0xfG5tPTE_;fc=1;ft=21;fm=1) and more Robert Duvall to look forward to, if I can find a VHS player that will do US tapes. Alas, no sign of Deadwood yet.
+
+Reminds me, back when this blog was young, and handmade, I had a little thing for recording and rating the films I'd seen. It was a nice aide-memoire. It vanished when I transferred to proper blogging software. But there's a long weekend coming up, so maybe I'll make some changes round here.
+

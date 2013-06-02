@@ -1,0 +1,18 @@
+---
+author:
+comments: true
+date: 2006-04-05 13:23:59
+layout: post
+slug: to-work
+title: To work
+wordpress_id: 438
+categories:
+- Geeky
+---
+
+Let the customization begin!
+
+(You never cared about the header anyway, did you?)
+
+So, whaddaya think? I know I need to work on the pictures (which was the start of all this tsorus) and aspects of the sidebar, but speakin' for myself, I'm not unhappy.
+

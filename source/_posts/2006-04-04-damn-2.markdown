@@ -1,0 +1,19 @@
+---
+author:
+comments: true
+date: 2006-04-04 20:20:31
+layout: post
+slug: damn-2
+title: Damn
+wordpress_id: 436
+categories:
+- Geeky
+---
+
+Started messing with some redesign -- based on a nice and clean WordPress theme. And I like it, even out of the box. There are things I want to tweak, like body font, header etc., to make it look less generic. But I like it well enough, for now.
+
+Oddly, the number of comments is still all wrong.
+
+
+Later ... the comments thing is odd -- earlier posts, it remains wrong, later ones it is fixed. Voodoo.
+

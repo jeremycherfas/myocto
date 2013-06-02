@@ -1,0 +1,16 @@
+---
+author:
+comments: true
+date: 2010-05-15 12:46:39
+layout: post
+slug: lazarus
+title: Lazarus
+wordpress_id: 2054
+categories:
+- General
+---
+
+Today's Lazarus (The only such award I have ever bestowed) goes to Antipixel, an image blog that I've been following for about 5 years, and that hasn't posted since 3 September 2006. [And now it's back](http://www.antipixel.com/blog/archives/2010/05/12/let_us_see.html). [^fn1]
+[^fn1]: God bless RSS feeds. 
+
+ Welcome.

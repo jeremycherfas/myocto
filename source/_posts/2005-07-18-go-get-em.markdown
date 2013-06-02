@@ -1,0 +1,13 @@
+---
+author:
+comments: true
+date: 2005-07-18 08:48:29
+layout: post
+slug: go-get-em
+title: Go get 'em
+wordpress_id: 282
+categories:
+- Just Links
+---
+
+I don't normally get embroiled in the political stuff; others do it better and I don't honestly see how it helps. But James Wolcott [asks](http://jameswolcott.com/archives/2005/07/one_city_one_wo.php), to great effect: "What's the point of Tony Blair playing poodle to the shrub?"

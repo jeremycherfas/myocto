@@ -1,0 +1,14 @@
+---
+author:
+comments: true
+date: 2005-03-11 09:16:19
+layout: post
+slug: yay
+title: Yay!
+wordpress_id: 223
+categories:
+- General
+---
+
+[Joy](http://www.wandg.com/).
+
